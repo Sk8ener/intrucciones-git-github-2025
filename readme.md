@@ -21,8 +21,16 @@ git commit -m "Mensaje explicativo"
 git restore nombre_fichero <- revierte los cambios (como un CTRL + Z)>
 git add . <- para volver a la fase Add>
 git commit -m "Otro mensaje" <- para volver a la fase commit>
-
+git commit -a "mensaje" <-salta de golpe a la fase commit de nuevo>
+git commit -a -m "actualizada instrucción"
 ## Instrucciones de control
 git status
 git log
 git log --oneline <- historial de commits resumido>
+
+## Instrucciones para subir ficheros a un repositorio en la nube.
+git remote add origin https://github.com/Sk8ener/intrucciones-git-github-2025.git
+
+## Instrucciones oara las ramas 
+git branch <- obtener las ramas del proyecto>
+git branch -M main <- cambiar el nombre a la rama actual (pasará a ser Main)>
