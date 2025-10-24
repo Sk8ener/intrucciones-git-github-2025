@@ -22,3 +22,7 @@ git restore nombre_fichero <- revierte los cambios (como un CTRL + Z)>
 git add . <- para volver a la fase Add>
 git commit -m "Otro mensaje" <- para volver a la fase commit>
 
+## Instrucciones de control
+git status
+git log
+git log --oneline <- historial de commits resumido>
