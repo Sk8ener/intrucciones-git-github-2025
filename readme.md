@@ -31,6 +31,6 @@ git log --oneline <- historial de commits resumido>
 ## Instrucciones para subir ficheros a un repositorio en la nube.
 git remote add origin https://github.com/Sk8ener/intrucciones-git-github-2025.git
 
-## Instrucciones oara las ramas 
+## Instrucciones para las ramas 
 git branch <- obtener las ramas del proyecto>
 git branch -M main <- cambiar el nombre a la rama actual (pasará a ser Main)>
