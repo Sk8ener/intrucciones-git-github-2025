@@ -34,3 +34,5 @@ git remote add origin https://github.com/Sk8ener/intrucciones-git-github-2025.gi
 ## Instrucciones para las ramas 
 git branch <- obtener las ramas del proyecto>
 git branch -M main <- cambiar el nombre a la rama actual (pasará a ser Main)>
+git branch nueva_rama <- añade una rama>
+git checkout nueva_rama <- cambia de rama>
